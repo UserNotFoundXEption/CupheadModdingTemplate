@@ -1,0 +1,14 @@
+C:\Users\lordk\source\repos\CupheadModdingTemplate\bin\Debug\net35\CupheadModdingTemplate.dll
+C:\Users\lordk\source\repos\CupheadModdingTemplate\bin\Debug\net35\CupheadModdingTemplate.pdb
+C:\Users\lordk\source\repos\CupheadModdingTemplate\bin\Debug\net35\Blender.dll
+C:\Users\lordk\source\repos\CupheadModdingTemplate\bin\Debug\net35\Hooks.dll
+C:\Users\lordk\source\repos\CupheadModdingTemplate\bin\Debug\net35\OriginalCupheadStuff.dll
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.csproj.AssemblyReference.cache
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\PluginInfo.cs
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.AssemblyInfoInputs.cache
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.AssemblyInfo.cs
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.csproj.CoreCompileInputs.cache
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadM.32059315.Up2Date
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.dll
+C:\Users\lordk\source\repos\CupheadModdingTemplate\obj\Debug\net35\CupheadModdingTemplate.pdb
