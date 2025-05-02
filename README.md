@@ -6,8 +6,8 @@
 3. Install BlenderAPI: https://gamebanana.com/mods/532236
 4. Install Visual Studio 2022 (not Visual Studio Code): https://visualstudio.microsoft.com/vs/  
 5. Install .NET Sdk v7.0: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.410-windows-x64-installer  
-6. Download this modding template using "git clone https://github.com/UserNotFoundXEption/CupheadModdingTemplate" in cmd console or pasting the link in VS2022.  
-7. Download original Cuphead code using "git clone https://github.com/UserNotFoundXEption/OriginalCupheadCode" in cmd console or pasting the link in VS2022.  
+6. Download this modding template using "git clone https://github.com/UserNotFoundXEption/CupheadModdingTemplate" in cmd console or by pasting the link in VS2022.  
+7. Download original Cuphead code using "git clone https://github.com/UserNotFoundXEption/OriginalCupheadCode" in cmd console or by pasting the link in VS2022.  
 8. Open both projects with VS2022.
 9. If anything is underlined red in modding template, look for references in the right panel, right click them, "add packages" and add everything from "AddTheseToReferences" folder.
 10. If it's still red, right-click it and download necessary packages.
