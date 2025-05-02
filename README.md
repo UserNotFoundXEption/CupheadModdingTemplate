@@ -22,3 +22,4 @@
 - Keep in mind that installing multiple mods at the same time can break things. 
 - Join BlenderAPI Discord server: https://discord.gg/fejJWHtK
 - Use newest version of Cuphead (no beta / legacy versions)
+- Read BlenderAPI documentation: https://boofii.github.io/blender-docs/
